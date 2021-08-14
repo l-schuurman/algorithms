@@ -1,1 +1,3 @@
-# algorithms
+# Algorithms
+
+Repository of various algorithms
